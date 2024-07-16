@@ -1,0 +1,12 @@
+P: Um paciente chega ao hospital com sintomas de febre, tosse e dificuldade para respirar.
+Primeiro, o médico realiza um exame físico. Em seguida, solicita exames de sangue e uma
+radiografia do tórax. Após analisar os resultados, o médico diagnostica pneumonia. Explique a
+sequência de passos que o médico seguiu para diagnosticar a pneumonia.
+R: O médico realizou um exame físico para avaliar os sintomas. Depois, solicitou
+exames de sangue e uma radiografia do tórax para obter mais informações. Com os
+resultados, diagnosticou pneumonia. A sequência de passos é: exame físico, exames de
+sangue, radiografia do tórax, diagnóstico de pneumonia. (CoT aplicado)
+P: Um paciente chega com dor abdominal aguda. O médico primeiro faz um exame
+físico. Depois, pede exames de sangue e uma tomografia computadorizada. Com os
+resultados, identifica uma apendicite. Quais passos o médico seguiu para diagnosticar a
+apendicite?

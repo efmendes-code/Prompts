@@ -1,0 +1,9 @@
+Escreva um e-mail formal para um cliente sobre o atraso distribuição de insumos. Utilize o e-mail delimitado em <exemplo> como referência para o tom e a estrutura.
+<exemplo>
+Prezado Sr. Silva,
+Gostaríamos de informá-lo sobre um atraso inesperado na entrega do seu projeto. Devido a imprevistos técnicos, não conseguiremos concluir o trabalho dentro do prazo inicialmente estipulado. Estamos trabalhando arduamente para resolver estas questões e estimamos que a entrega será feita até o final da próxima semana. Pedimos desculpas pelo inconveniente e agradecemos a sua compreensão.
+Atenciosamente,
+João Pereira
+Gerente de Projetos
+</exemplo>
+Agora, escreva o e-mail

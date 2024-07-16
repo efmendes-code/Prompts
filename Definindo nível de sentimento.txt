@@ -1,0 +1,2 @@
+Escreva uma mensagem de encorajamento para um colega que está passando por
+um momento difícil. Sentimento: 9. Onde 1 é muito negativo e 10 é muito positivo.

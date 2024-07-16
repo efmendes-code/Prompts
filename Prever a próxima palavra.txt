@@ -1,0 +1,6 @@
+Vamos jogar um jogo. Eu te dou uma frase incompleta, e você vai me mostrar:
+
+1 - quais são as 5 palavras com maior probabilidade de serem a próxima palavra dessa frase.
+2 - o valor da probabilidade para cada palavra.
+
+Confirme se entendeu

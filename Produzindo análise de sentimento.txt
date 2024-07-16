@@ -1,0 +1,3 @@
+Produza 10 exemplares para análise de sentimento. Os exemplos são categorizados como positivos ou negativos. Produza 2 exemplos negativos e 8 exemplos positivos. Use este formato para os exemplos:
+P: <frase>
+A: <sentimento>

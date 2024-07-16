@@ -1,0 +1,4 @@
+- Carregue o perfil do idealista definido em <idealista>
+- Carregue o perfil do crítico definido em <crítico>
+Solicitação: Idealista, crie um produto para o público alvo de 18 a 28 anos que tenha
+um custo máximo de R$100.

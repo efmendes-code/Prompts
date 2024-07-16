@@ -1,0 +1,2 @@
+Escreva uma mensagem de convite para uma festa de aniversário. Entonação: 2.
+Onde 1 é a entonação muito casual e 10 a entonação muito formal.

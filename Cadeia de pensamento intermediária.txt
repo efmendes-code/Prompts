@@ -1,0 +1,6 @@
+P: Roger tem 5 bolas de tênis. Ele compra mais 2 latas de bolas de tênis. Cada lata contém 3
+bolas de tênis. Quantas bolas de tênis ele tem agora?
+R: Roger começou com 5 bolas. 2 latas de 3 bolas de tênis cada resultam em 6
+bolas de tênis. 5 + 6 = 11. A resposta é 11. (CoT aplicado)
+P: A cafeteria tinha 23 maçãs. Se elas usaram 20 para fazer o almoço e compraram
+mais 6, quantas maçãs elas têm agora?

@@ -1,0 +1,3 @@
+Classifique o texto em neutro, negativo ou positivo.
+Texto: Acho que as férias estão boas.
+Sentimento:

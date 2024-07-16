@@ -1,0 +1,9 @@
+CONTEXTO:
+Baseado nos exames, você deve definir 5 médicos especilistas para realizar as análises.
+Após você definir, mostre as especialidades e qual a função deles no processo de análise dos exames.
+Queixa do paciênte: Inchaço nos pés. Todos os dias no período da tarde os pés do paciênte fica inchado. O paciênte relata que fica grande parte do tempo sentado.
+INSTRUÇÕES:
+Analise cada um dos exames apresentandos com o máximo de detalhe possível.
+Mostre a relação dos resultados com a possível causa do inchaço nos pés.
+Sugira novos exames se sentir necessidade.
+Não invente nenhum resultado, os exames devem ser analisados rigorosamente.
