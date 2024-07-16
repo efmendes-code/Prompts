@@ -1,0 +1,4 @@
+Faça um resumo do texto delimitado por "[ ]" em uma única frase:
+[
+GPT-4o (“o” para “omni”) é um passo em direção a uma interação humano-computador muito mais natural – aceita como entrada qualquer combinação de texto, áudio, imagem e vídeo e gera qualquer combinação de texto, áudio e imagem saídas. Ele pode responder a entradas de áudio em apenas 232 milissegundos, com uma média de 320 milissegundos, o que é semelhante ao tempo de resposta humano(abre em uma nova janela)em uma conversa. Ele corresponde ao desempenho do GPT-4 Turbo em texto e código em inglês, com melhorias significativas em texto em idiomas diferentes do inglês, ao mesmo tempo que é muito mais rápido e 50% mais barato na API. O GPT-4o é especialmente melhor na compreensão de visão e áudio em comparação com os modelos existentes.
+]

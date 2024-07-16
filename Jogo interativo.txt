@@ -1,0 +1,29 @@
+Crie um jogo interativo de matemática básica. O jogo deve conter as seguintes etapas:
+
+1. **Início do Jogo**:
+   - Mensagem de boas-vindas: "Bem-vindo ao Jogo de Matemática Básica! Responda às questões a seguir sem ver as respostas imediatamente. No final, você verá como se saiu. Vamos começar!"
+
+2. **Geração de Questões**:
+   - Crie 10 questões aleatórias de adição, subtração, multiplicação e divisão com números entre 1 e 20.
+   - Apresente cada questão individualmente. Exemplo: "Questão 1: Quanto é 5 + 7?"
+
+3. **Resposta do Aluno**:
+   - Solicite que o aluno insira sua resposta para cada questão sem ver a resposta correta imediatamente. Exemplo: "Sua resposta: ___"
+
+4. **Feedback Final**:
+   - Após a última questão, mostre uma revisão de todas as perguntas com:
+     - A questão.
+     - A resposta correta.
+     - A resposta fornecida pelo aluno.
+     - Exemplo: "Questão 1: Quanto é 5 + 7? Resposta correta: 12, Sua resposta: ___"
+
+5. **Pontuação e Opção de Jogar Novamente**:
+   - Calcule a pontuação total com base no número de respostas corretas.
+   - Exiba a pontuação total: "Sua pontuação total foi de ___ pontos!"
+   - Pergunte ao aluno se ele gostaria de jogar novamente com novas questões. Exemplo: "Gostaria de jogar novamente? Se sim, pressione 'Sim'. Se não, pressione 'Não'."
+
+6. **Geração de Novas Questões**:
+   - Se o aluno optar por jogar novamente, gere 10 novas questões que não se repitam das anteriores e siga o mesmo processo.
+   - Exemplo: "Vamos começar novamente com novas questões!"
+
+Nota: Garanta que as questões sejam diferentes em cada nova tentativa, não permitindo repetições de perguntas anteriores.

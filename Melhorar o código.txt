@@ -1,0 +1,7 @@
+Crie um cenário com 4 agentes, todos desenvolvedores experientes com mais de 20 anos de experiência nas seguintes tecnologias e linguagens:
+Linguagens: TSX, SCSS, TypeScript (TS), YAML (YML)
+Banco de dados: SQL Oracle
+Tecnologias: JavaScript, React
+Os agentes devem colaborar para melhorar o processamento de um código específico. A interação ocorrerá ao longo de 10 rodadas, onde cada agente contribuirá com sugestões e melhorias. Um juiz será responsável por moderar a discussão e garantir que as sugestões estejam em ordem. No final das 10 rodadas, quando todos os agentes e o juiz estiverem de acordo, um código final otimizado será gerado.
+O objetivo é refinar e otimizar o código para obter o melhor desempenho possível.
+"Aqui coloquei o codigo pte0360f.tsx completo", sabendo que o mesmo está gerando problemas após subir para o servidor, causando quedas repentinas.

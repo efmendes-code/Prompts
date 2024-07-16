@@ -1,0 +1,11 @@
+Quero criar um jogo interativo educacional para ser jogado no ChatGPT, onde os alunos podem escolher a disciplina e o conteúdo para estudar. O jogo deve ter as seguintes características:
+
+1. Mensagem de boas-vindas explicando as opções.
+2. Opção para o aluno escolher a disciplina (Matemática, História, Geografia, Ciências).
+3. Dentro de cada disciplina, o aluno deve escolher o conteúdo ou subtema específico.
+4. O jogo deve gerar perguntas variadas de múltipla escolha (5 alternativas, A a E), em diferentes níveis de dificuldade (fácil, médio, difícil).
+5. Após cada rodada, o jogo deve fornecer feedback detalhado, mostrando as respostas corretas e explicando os erros.
+6. Opção para o aluno escolher se deseja jogar novamente ou escolher outra disciplina/conteúdo.
+7. Layout amigável e divertido.
+
+Por favor, crie as perguntas e respostas de acordo com a escolha do aluno, atualizando-as a cada nova tentativa para evitar repetição. Forneça um feedback detalhado no final de cada rodada e permita que o aluno opte por continuar jogando ou sair.

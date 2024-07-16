@@ -1,0 +1,3 @@
+Gere uma lista com três nomes de músicas inventadas junto com seus autores e gênero musical.
+Retorne em formato XML com as seguintes chaves:
+music_id, title, author, kinda_music.

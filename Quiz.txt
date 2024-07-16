@@ -1,0 +1,1 @@
+ChatGPT, desenvolva um quiz sobre personagens históricos que ajudaram a moldar o mundo moderno. Quero que o jogo tenha 5 perguntas. O aluno deverá escolher uma das alternativas e no final é necessário apresentar o resultado. Para cada pergunta, espere a resposta do aluno. Quero jogar online no ChatGPT.

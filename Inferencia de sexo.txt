@@ -1,0 +1,14 @@
+Baseado na lista de nomes delimitada pelas tags <nomes></nomes>, crie um CSV de saída inferindo o sexo de cada pessoa. 
+Masculino=M, Feminino=F. 
+O CSV de saída de ser no formato index, nome, sexo.
+<nomes>
+JOSE
+MARIA
+ANTONIO
+CLEUSA
+SIMONE
+BRUNNO
+ISSAAK
+GYSELLE
+VIVYANE
+</nomes>
